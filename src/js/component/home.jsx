@@ -1,7 +1,7 @@
 import React from "react";
 import NavBar from "./navbar.jsx";
 import CarouseL from "./carousel.jsx";
-import Footer from "./footer.jsx";
+import FooteR from "./footer.jsx";
 import Cards from "./card.jsx";
 
 //create your first component
@@ -11,7 +11,7 @@ const Home = () => {
 			<NavBar></NavBar>
 			<CarouseL></CarouseL>
 			<Cards></Cards>
-			<Footer></Footer>
+			<FooteR></FooteR>
 		</div>
 	);
 };
