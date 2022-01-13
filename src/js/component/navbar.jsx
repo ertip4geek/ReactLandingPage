@@ -4,7 +4,7 @@ import { Navbar, Nav, Container } from "react-bootstrap";
 const NavBar = () => {
 	return (
 		<>
-			<Navbar bg="dark" variant="dark">
+			<Navbar bg="dark" variant="dark" sticky="top">
 				<Nav className="me-auto" activeKey="/home">
 					<Nav.Item>
 						<Nav.Link href="startbootstrap">
