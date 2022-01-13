@@ -56,8 +56,11 @@ const FooteR = () => {
 				</div>
 
 				<div className="footer-copyright text-center py-3">
-					© 2020 Copyright:
-					<a href="https://"> @ertip4Geeks + DavidCmP</a>
+					© 2022 Copyright:
+					<a href="https://github.com/ertip4geek?tab=repositories">
+						{" "}
+						@ertip4Geeks + DavidCmP
+					</a>
 				</div>
 			</footer>
 		</>
