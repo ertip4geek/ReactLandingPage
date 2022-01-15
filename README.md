@@ -1,36 +1,10 @@
-# Hello World with React boilerplate
-<p>
-  <a href="https://gitpod.io#https://github.com/4GeeksAcademy/react-hello.git"><img src="https://raw.githubusercontent.com/4GeeksAcademy/react-hello/master/open-in-gitpod.svg?sanitize=true" />
-  </a>
-</p>
 
-This template is similar to create-react-app but it's meant for 4Geeks Academy students.
 
-##### Download the boilerplate using git
+## Published website!
+https://react-landing-page-ivvsrtlal-ertip4geek.vercel.app/
 
-```
-$ git clone https://github.com/4GeeksAcademy/react-hello.git
-$ cd react-hello
-```
+![image](https://user-images.githubusercontent.com/92811902/149641844-edc77f3b-b68b-4cd0-b768-f2c1fda902da.png)
 
-##### and install the npm package:
-```
-$ npm install
-```
-
-## Start coding!
-
-For Windows, Mac, Linux or Gitpod, start the webpack server with live reload:
-- `$ npm run start`
-
-You can update the `styles/index.css` or `js/index.js` depending on your needs.
-Add more files into your, `./src/js/components` or styles folder as you need them.
-
-## Publish your website!
-
-This boilerplate is 100% compatible with the free [github pages](https://pages.github.com/) and [vercel](https://vercel.com/) hosting.
-
-It takes just 2 minutes to deploy, [click here to start the process](https://github.com/4GeeksAcademy/react-hello/blob/master/docs/DEPLOY.md).
 
 ## Other features
 
